@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.30.8](https://www.github.com/googleapis/google-api-java-client/compare/v1.30.7...v1.30.8) (2019-12-23)
+
+
+### Bug Fixes
+
+* future test breakage ([#1457](https://www.github.com/googleapis/google-api-java-client/issues/1457)) ([e7d5c83](https://www.github.com/googleapis/google-api-java-client/commit/e7d5c831a9d5c72206af6322142c338585698a78))
+
 ### [1.30.7](https://www.github.com/googleapis/google-api-java-client/compare/v1.30.6...v1.30.7) (2019-12-17)
 
 
